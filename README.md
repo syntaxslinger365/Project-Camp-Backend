@@ -1,3 +1,4 @@
+
 # Project Camp Backend
 
 A RESTful backend API for collaborative project management, built with Node.js, Express.js, and MongoDB. Project Camp enables users to create projects, manage team members, organize tasks and subtasks, maintain project notes, and securely access resources through JWT authentication and role-based authorization.
@@ -364,3 +365,7 @@ Replace the placeholders with your actual profile information.
 ## License
 
 Choose and add an appropriate open-source license before distributing the project. If no license has been selected, the project's reuse permissions remain unspecified.
+
+# Project-Camp-Backend
+Project management REST API built with Node.js, Express.js, MongoDB, and JWT authentication.
+ 
