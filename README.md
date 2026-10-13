@@ -360,11 +360,12 @@ Potential improvements include:
 * GitHub: syntaxslinger365
 
 
-Replace the placeholders with your actual profile information.
+## License
 
 ## License
 
-Choose and add an appropriate open-source license before distributing the project. If no license has been selected, the project's reuse permissions remain unspecified.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 # Project-Camp-Backend
 Project management REST API built with Node.js, Express.js, MongoDB, and JWT authentication.
