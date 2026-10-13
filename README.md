@@ -357,8 +357,8 @@ Potential improvements include:
 
 **Your Name**
 
-* GitHub: YOUR_GITHUB_USERNAME
-* LinkedIn: YOUR_LINKEDIN_PROFILE
+* GitHub: syntaxslinger365
+
 
 Replace the placeholders with your actual profile information.
 
